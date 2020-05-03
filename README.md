@@ -8,7 +8,7 @@ The Login System is robust, powerful and secure built in PHP using PDP extension
 ## Features:
 1. SQL Injection
 2. Login Token System
-3. Session Hijaking
+3. Session Hijacking
 4. Multiple User Roles
 5. Password Reset System
 6. Advance Password Encrption Alogithum
