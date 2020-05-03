@@ -1,0 +1,1 @@
+2020-05-03 06:01:53 AM: (DB RunQuery): SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
